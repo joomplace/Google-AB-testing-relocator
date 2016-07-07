@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.x" type="plugin" group="system" method="upgrade">
+    <name>System - Gogle A/B Testing Relocator</name>
+    <author>Joomplace.com</author>
+    <creationDate>October 2015</creationDate>
+    <copyright>(C) JoomPlace, www.joomplace.com</copyright>
+    <license>GNU/GPL http://www.gnu.org/copyleft/gpl.html</license>
+    <authorEmail>support@joomplace.com</authorEmail>
+    <authorUrl>www.joomplace.com</authorUrl>
+    <version>1.0.0</version>
+    <description>PLG_GOOGLE_AB_TESTING_RELOCATOR_DESC</description>
+    <files>
+        <filename plugin="google_ab_testing_relocator">google_ab_testing_relocator.php</filename>
+    </files>
+    <languages>
+        <language tag="en-GB">language/en-GB/en-GB.plg_system_google_ab_testing_relocator.ini</language>
+    </languages>
+</extension>
